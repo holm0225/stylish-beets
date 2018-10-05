@@ -25,9 +25,21 @@ blockquote {
   color: #222;
   font-family: "Open Sans", sans-serif;
   font-weight: bold;
+  font-style: italic;
 }
 
 figcaption {
   font-family: "PT Serif", serif;
   font-style: italic;
+}
+
+a:hover {
+  color: #3f1622;
+}
+
+figure + p {
+  font-size: 1.25rem;
+  font-family: "Open Sans", sans-serif;
+  color: #222;
+  font-weight: bold;
 }
