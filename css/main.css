@@ -1,3 +1,27 @@
 html {
   background-color: #c9b5ab;
 }
+
+header, footer {
+  font-size: 1.5rem;
+}
+
+#varieties, #nutrition, #tags {
+  color: #8f2440;
+  font-family: "Open Sans", sans-serif;
+}
+
+#desc {
+  color: #8f2440;
+  font-size: 0.8rem;
+}
+
+footer {
+  font-size: 0.8rem;
+}
+
+blockquote {
+  font-size: 1.5rem;
+  color: #222;
+  font-family: "Open Sans", sans-serif;
+}
