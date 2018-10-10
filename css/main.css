@@ -1,5 +1,7 @@
 html {
   background-color: #c9b5ab;
+  line-height: 1.5;
+  font-weight: normal;
 }
 
 header, footer {
@@ -37,9 +39,21 @@ a:hover {
   color: #3f1622;
 }
 
+a {
+  text-decoration: none;
+}
+
 figure + p {
   font-size: 1.25rem;
   font-family: "Open Sans", sans-serif;
   color: #222;
   font-weight: bold;
+}
+
+.no-numbers {
+  list-style: none;
+}
+
+img {
+  width: 50%;
 }
